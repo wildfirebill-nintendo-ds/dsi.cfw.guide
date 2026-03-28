@@ -19,7 +19,7 @@ npm run docs:dev
 ```
 to build the Markdown files into HTML and start a testing webserver on http://127.0.0.1:5173.
 
-## Docker
+# Docker
 
 ### Prerequisites
 
