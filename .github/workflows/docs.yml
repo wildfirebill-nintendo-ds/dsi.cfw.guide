@@ -11,6 +11,7 @@ on:
     paths:
       - .github/workflows/docs.yml
       - dockerfiles/docs.Dockerfile
+      - Dockerfile
       - docs/**
   workflow_dispatch:
   pull_request:
